@@ -1,2 +1,2 @@
 # practies
-practies 
+practice demo project
